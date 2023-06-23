@@ -1,0 +1,33 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "Track 13",
+      "artist": "Me",
+      "duration": 5,
+      "_id": "03d22c7d-66ce-4bc0-94c2-7df616bb3896",
+      "playlistid": "c9870ece-d5d4-42d2-b11a-161e0bb13538"
+    },
+    {
+      "title": "Track 22",
+      "artist": "Me",
+      "duration": 7,
+      "_id": "aa7208a4-80b4-4d4d-974b-4d2b10804773",
+      "playlistid": "c9870ece-d5d4-42d2-b11a-161e0bb13538"
+    },
+    {
+      "title": "Sax 1",
+      "artist": "Artist me",
+      "duration": 3,
+      "_id": "ce07f5a1-5c26-4db5-8ca5-95ffb5e94532",
+      "playlistid": "475ebf49-f18c-43e0-b44b-e45545299638"
+    },
+    {
+      "title": "Saxophone 2",
+      "artist": "Me",
+      "duration": 7,
+      "_id": "06303def-99ca-4e44-b71d-c93ea17db4ba",
+      "playlistid": "475ebf49-f18c-43e0-b44b-e45545299638"
+    }
+  ]
+}
